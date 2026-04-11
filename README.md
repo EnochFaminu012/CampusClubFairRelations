@@ -57,3 +57,43 @@ Lastly, our extension that we decided on was to create a reward system for stude
 <img width="443" height="301" alt="image" src="https://github.com/user-attachments/assets/2f9c7312-584d-4278-914b-aba3847e3c51" />
 
 <img width="445" height="143" alt="image" src="https://github.com/user-attachments/assets/502a5e9f-c16b-47d6-8ac4-3e2dd4c11644" />
+
+# Queries
+
+<img width="437" height="251" alt="image" src="https://github.com/user-attachments/assets/e8cd02f8-ec32-4225-bb34-a0f5d19e83f5" />
+
+1. Clubs that hosted the most events this semester
+<img width="725" height="435" alt="image" src="https://github.com/user-attachments/assets/76b1aa1e-aec6-4582-87bc-60deda78d4ea" />
+
+2. Events co-hosted by more than one club
+<img width="650" height="327" alt="image" src="https://github.com/user-attachments/assets/115227ab-2b1c-494b-9fba-e8be5cf706e1" />
+
+3. Student who attended the most events
+<img width="903" height="511" alt="image" src="https://github.com/user-attachments/assets/aef17213-e720-40a9-92b3-452c47481008" />
+
+4. List all clubs
+<img width="361" height="421" alt="image" src="https://github.com/user-attachments/assets/0436b315-5579-446b-ace0-e16ff6f8d3b7" />
+
+5. Events with the highest attendance
+<img width="711" height="438" alt="image" src="https://github.com/user-attachments/assets/707766d7-88d7-4a1d-a36d-9df069ed198a" />
+
+6. List all events ordered by date
+<img width="520" height="486" alt="image" src="https://github.com/user-attachments/assets/33c8d13d-a052-4195-88f7-78f40f6bc441" />
+
+7. Find students who have never attended any event
+<img width="585" height="345" alt="image" src="https://github.com/user-attachments/assets/01668d73-b637-476b-a0b7-76ddb9bb6971" />
+
+8. List all active memberships with student names
+<img width="559" height="520" alt="image" src="https://github.com/user-attachments/assets/2ca111b3-b646-469c-99ff-4bd3dcce5eba" />
+
+9. Most popular reward item
+<img width="628" height="386" alt="image" src="https://github.com/user-attachments/assets/6823b2d0-a7a9-4abd-8bea-6066884c4b19" />
+
+10. Students who first name start with A
+<img width="408" height="338" alt="image" src="https://github.com/user-attachments/assets/41c989d5-3d45-4dbc-ac60-94062efa61c3" />
+
+# Database Information
+Name of Database: Mb_b7
+
+Additional info: All queries are bookmarked as stored procedures
+
